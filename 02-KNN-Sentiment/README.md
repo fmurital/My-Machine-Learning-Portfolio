@@ -47,7 +47,7 @@ Achieved approximately 80% accuracy in sentiment classification of movie reviews
 
 ## Files
 
-- `[knn_sentiment.ipynb](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/02-KNN-Sentiment/fmurital_kNN.ipynb)` – Complete project notebook
+- `fmurital_kNN.ipynb` – Complete project notebook
 
 ## Author
 
