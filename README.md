@@ -8,31 +8,31 @@ This repository contains a collection of machine learning projects I completed d
 - **Topic:** Identifying topics from articles
 - **Skills:** Web scraping, embeddings, custom K-means, PCA
 - **Key achievement:** Implemented K-means with Manhattan distance from scratch
-- [View Project](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/01-KMeans-PCA)
+- 🔗 ./01-KMeans-PCA/
 
 ### 2. Supervised Learning: K-Nearest Neighbors
 - **Topic:** Sentiment analysis of movie reviews
 - **Skills:** KNN implementation, IMDB dataset, evaluation metrics
 - **Key achievement:** 80% accuracy on sentiment classification
-- [View Project](assignments/knn-classifier/)
+🔗 ./02-KNN-Sentiment/
 
 ### 3. Naïve Bayesian Classifier
 - **Topic:** Sentiment analysis with probabilistic modeling
 - **Skills:** Bayes theorem, Gaussian PDFs, 2-fold cross-validation
 - **Key achievement:** 82% accuracy across both folds
-- [View Project](assignments/naive-bayes/)
+🔗 ./03-Naive-Bayes/
 
 ### 4. Deep Learning: Transfer Learning
 - **Topic:** Artwork genre classification
 - **Skills:** VGG16, transfer learning, dropout, batch normalization
 - **Key achievement:** 47% accuracy with limited data (45 samples per class)
-- [View Project](assignments/transfer-learning/)
+🔗 ./04-Art-Classification/
 
 ### 5. NLP: Seq2Seq Text Summarization
 - **Topic:** News article summarization
 - **Skills:** LSTM, encoder-decoder, BLEU scores
 - **Key achievement:** Built functional summarization pipeline
-- [View Project](assignments/seq2seq-summarization/)
+🔗 ./05-Text-Summarization/
 
 ## Skills Matrix
 
