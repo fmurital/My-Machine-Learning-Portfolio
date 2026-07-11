@@ -46,7 +46,7 @@ Achieved approximately 82% classification accuracy across validation folds.
 
 ## Files
 
-- `fmuritalBayesian.ipynb` – Complete project notebook
+- [`fmuritalBayesian.ipynb`](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/03-Naive-Bayes/fmuritalBayesian.ipynb) – Complete project notebook
 
 ## Author
 
