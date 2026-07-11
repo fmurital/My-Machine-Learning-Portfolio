@@ -56,7 +56,7 @@ The dataset was relatively small, making generalization difficult. Transfer lear
 
 ## Files
 
-- `Fmurital_Transfer_Learning.ipynb` – Complete project notebook
+- [`Fmurital_Transfer_Learning.ipynb`](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/04-Art-Classification/Fmurital_Transfer_Learning.ipynb) – Complete project notebook
 
 ## Author
 
