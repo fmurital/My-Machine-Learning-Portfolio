@@ -56,7 +56,7 @@ The dataset was relatively small, making generalization difficult. Transfer lear
 
 ## Files
 
-- `artwork_classification.ipynb` – Complete project notebook
+- `Fmurital_Transfer_Learning.ipynb` – Complete project notebook
 
 ## Author
 
