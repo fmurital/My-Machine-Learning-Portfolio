@@ -57,7 +57,7 @@ Implemented a custom K-Means clustering algorithm using Manhattan distance and s
 
 ## Files
 
-- `fmuritalClustering.ipynb` & `fmuritalKmeans_Algorithm.ipynb` - Complete project notebook
+- [`fmuritalClustering.ipynb`](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/01-KMeans-PCA/fmuritalClustering.ipynb) & [`fmuritalKmeans_Algorithm.ipynb`](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/01-KMeans-PCA/fmuritalKmeans_Algorithm.ipynb) - Complete project notebook
 
 ## Author
 
