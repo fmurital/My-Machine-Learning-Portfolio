@@ -70,7 +70,7 @@ Through this project, I gained hands-on experience with:
 
 ## Files
 
-- [./Text_summarizer_Seq_to_seq.ipynb/](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/05-Text-Summarization/Text_summarizer_Seq_to_seq.ipynb) – Complete project notebook
+- [/Text_summarizer_Seq_to_seq.ipynb/](https://github.com/fmurital/My-Machine-Learning-Portfolio/blob/main/05-Text-Summarization/Text_summarizer_Seq_to_seq.ipynb) – Complete project notebook
 
 ## Author
 
