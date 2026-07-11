@@ -70,7 +70,7 @@ Through this project, I gained hands-on experience with:
 
 ## Files
 
-- `text_summarization.ipynb` – Complete project notebook
+- ./Text_summarizer_Seq_to_seq.ipynb/ – Complete project notebook
 
 ## Author
 
