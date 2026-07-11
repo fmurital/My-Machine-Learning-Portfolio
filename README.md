@@ -1,3 +1,49 @@
 # My-Machine-Learning-Portfolio
 ## About This Repository:
 This repository contains a collection of machine learning projects I completed during my graduate studies in Data Science. Each project demonstrates my ability to implement algorithms from scratch and apply them to real-world problems.
+
+## Projects
+
+### 1. Unsupervised Learning: K-Means Clustering & PCA
+- **Topic:** Identifying topics from articles
+- **Skills:** Web scraping, embeddings, custom K-means, PCA
+- **Key achievement:** Implemented K-means with Manhattan distance from scratch
+- [View Project](assignments/clustering-pca/)
+
+### 2. Supervised Learning: K-Nearest Neighbors
+- **Topic:** Sentiment analysis of movie reviews
+- **Skills:** KNN implementation, IMDB dataset, evaluation metrics
+- **Key achievement:** 80% accuracy on sentiment classification
+- [View Project](assignments/knn-classifier/)
+
+### 3. Naïve Bayesian Classifier
+- **Topic:** Sentiment analysis with probabilistic modeling
+- **Skills:** Bayes theorem, Gaussian PDFs, 2-fold cross-validation
+- **Key achievement:** 82% accuracy across both folds
+- [View Project](assignments/naive-bayes/)
+
+### 4. Deep Learning: Transfer Learning
+- **Topic:** Artwork genre classification
+- **Skills:** VGG16, transfer learning, dropout, batch normalization
+- **Key achievement:** 47% accuracy with limited data (45 samples per class)
+- [View Project](assignments/transfer-learning/)
+
+### 5. NLP: Seq2Seq Text Summarization
+- **Topic:** News article summarization
+- **Skills:** LSTM, encoder-decoder, BLEU scores
+- **Key achievement:** Built functional summarization pipeline
+- [View Project](assignments/seq2seq-summarization/)
+
+## Skills Matrix
+
+| Skill | Project | Tools |
+|-------|---------|-------|
+| Custom Algorithms | K-Means, KNN, Naive Bayes | Python, NumPy |
+| Embeddings | Clustering, KNN | HuggingFace, sentence-transformers |
+| Deep Learning | Art Classification, Summarization | TensorFlow, Keras |
+| NLP | Summarization | LSTM, Tokenization |
+| Transfer Learning | Art Classification | VGG16 |
+| Evaluation | All projects | Confusion matrices, accuracy, BLEU |
+
+## Contact
+- Email: fumrital@gmail.com
