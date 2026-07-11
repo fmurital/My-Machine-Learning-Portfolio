@@ -12,13 +12,13 @@ This repository contains a collection of machine learning projects I completed d
 - **Topic:** Sentiment analysis of movie reviews
 - **Skills:** KNN implementation, IMDB dataset, evaluation metrics
 - **Key achievement:** 80% accuracy on sentiment classification
-- [./02-KNN-Sentiment/](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/02-KNN-Sentiment)
+- [/02-KNN-Sentiment/](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/02-KNN-Sentiment)
 
 ### 3. Naïve Bayesian Classifier
 - **Topic:** Sentiment analysis with probabilistic modeling
 - **Skills:** Bayes theorem, Gaussian PDFs, 2-fold cross-validation
 - **Key achievement:** 82% accuracy across both folds
-- ./03-Naive-Bayes/
+- [/03-Naive-Bayes/](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/03-Naive-Bayes)
 
 ### 4. Deep Learning: Transfer Learning
 - **Topic:** Artwork genre classification
