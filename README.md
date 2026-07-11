@@ -24,13 +24,13 @@ This repository contains a collection of machine learning projects I completed d
 - **Topic:** Artwork genre classification
 - **Skills:** VGG16, transfer learning, dropout, batch normalization
 - **Key achievement:** 47% accuracy with limited data (45 samples per class)
-- ./04-Art-Classification/
+- [/04-Art-Classification/](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/04-Art-Classification)
 
 ### 5. NLP: Seq2Seq Text Summarization
 - **Topic:** News article summarization
 - **Skills:** LSTM, encoder-decoder, BLEU scores
 - **Key achievement:** Built functional summarization pipeline
-- ./05-Text-Summarization/
+- [/05-Text-Summarization/](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/05-Text-Summarization)
 
 ## Skills Matrix
 
