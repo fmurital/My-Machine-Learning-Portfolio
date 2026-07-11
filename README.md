@@ -32,7 +32,7 @@ This repository contains a collection of machine learning projects I completed d
 - **Topic:** News article summarization
 - **Skills:** LSTM, encoder-decoder, BLEU scores
 - **Key achievement:** Built functional summarization pipeline
-- ./05-Text-Summarization/
+- /05-Text-Summarization/
 
 ## Skills Matrix
 
