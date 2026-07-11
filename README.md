@@ -8,7 +8,7 @@ This repository contains a collection of machine learning projects I completed d
 - **Topic:** Identifying topics from articles
 - **Skills:** Web scraping, embeddings, custom K-means, PCA
 - **Key achievement:** Implemented K-means with Manhattan distance from scratch
-- [View Project](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/01-KMeans-PCA/)
+- [View Project](https://github.com/fmurital/My-Machine-Learning-Portfolio/tree/main/01-KMeans-PCA)
 
 ### 2. Supervised Learning: K-Nearest Neighbors
 - **Topic:** Sentiment analysis of movie reviews
