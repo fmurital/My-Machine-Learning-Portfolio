@@ -44,4 +44,4 @@ This repository contains a collection of machine learning projects I completed d
 | Evaluation | All projects | Confusion matrices, accuracy, BLEU |
 
 ## Contact
-- Email: fumrital@gmail.com
+- Email: Fmurital@gmail.com
